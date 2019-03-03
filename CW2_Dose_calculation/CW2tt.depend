@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1491168094 source:c:\users\thoma\documents\kcl\oop\coursework\cw2tt\main.cpp
+	<iostream>
+	"amethod.h"
+
+1488247933 c:\users\thoma\documents\kcl\oop\coursework\cw2tt\amethod.h
+
+1487697916 c:\users\thoma\documents\kcl\oop\coursework\cw2tt\bmethod.h
+	<math.h>
+
+1488244702 source:c:\users\thoma\documents\kcl\oop\coursework\cw2tt\amethod.cpp
+	"amethod.h"
+	<iostream>
+
+1491164545 source:e:\users\thoma\documents\kcl\oop\coursework\cw2tt\amethod.cpp
+	"amethod.h"
+	<iostream>
+
+1488244333 e:\users\thoma\documents\kcl\oop\coursework\cw2tt\amethod.h
+
+1491164494 source:e:\users\thoma\documents\kcl\oop\coursework\cw2tt\main.cpp
+	<iostream>
+	"amethod.h"
+

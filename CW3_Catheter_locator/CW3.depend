@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1491489935 source:c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\catheter.cpp
+	<iostream>
+	"Catheter.h"
+	<math.h>
+
+1491490020 c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\catheter.h
+	<string>
+
+1491488523 source:c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\main.cpp
+	<iostream>
+	"Simulator.h"
+	<string>
+
+1491489215 c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\simulator.h
+	<string>
+	"Catheter.h"
+	"MRI_Scan.h"
+
+1491476559 c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\mri_scan.h
+	<fstream>
+	<string>
+
+1491489842 source:c:\users\thoma\documents\kcl\oop\cw4\oop_cw3\simulator.cpp
+	<iostream>
+	<fstream >
+	"Simulator.h"
+	<string>
+
